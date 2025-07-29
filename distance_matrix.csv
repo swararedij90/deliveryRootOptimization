@@ -1,0 +1,7 @@
+,Warehouse,Customer_1,Customer_2,Customer_3,Customer_4,Customer_5
+Warehouse,0.0,3.61,6.4,7.07,6.08,8.54
+Customer_1,3.61,0.0,3.16,4.12,4.47,6.0
+Customer_2,6.4,3.16,0.0,5.0,3.16,3.16
+Customer_3,7.07,4.12,5.0,0.0,7.81,8.06
+Customer_4,6.08,4.47,3.16,7.81,0.0,2.83
+Customer_5,8.54,6.0,3.16,8.06,2.83,0.0
