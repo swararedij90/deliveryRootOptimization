@@ -23,3 +23,4 @@ The project automates every stage — from data preparation and route analysis t
 
 ![Image](https://github.com/user-attachments/assets/8012533e-432d-48e8-8ec7-dac572f3ab9d)
 ![Image](https://github.com/user-attachments/assets/b16efa4d-84e5-44ab-9ac1-ac1f23a5faad)
+<img width="2700" height="2100" alt="Image" src="https://github.com/user-attachments/assets/0e3d2f6d-ff38-43ac-a296-51f14a286ed7" />
