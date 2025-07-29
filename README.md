@@ -20,3 +20,5 @@ Applied linear programming (using PuLP) to solve a Traveling Salesman Problem (T
 Generated a professional PDF report summarizing the optimized route, total distance, estimated time, and delivery cost (₹20 per km). The report includes the route map, detailed metrics, and a summary table for presentation.
 The project automates every stage — from data preparation and route analysis to final reporting, providing a scalable solution that can be adapted for larger logistics networks.
 ![Image](https://github.com/user-attachments/assets/54734af9-82fc-4642-92f5-c76b249514d2)
+
+![Image](https://github.com/user-attachments/assets/8012533e-432d-48e8-8ec7-dac572f3ab9d)
